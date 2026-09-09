@@ -1,18 +1,17 @@
 # Hi, I'm Shubham Mehta 👋
+
 ### CSE (Cybersecurity) Student | Systems, C++, AI & Network Security Enthusiast
 
 ## Tech Stack
-- C++
-- Python
-- Git
-- Linux
-- Networking
+- **Languages:** C++, Python, C, JavaScript
+- **Core:** Data Structures & Algorithms, Systems Programming, Network Security, Socket Programming, Cryptography
+- **Tools:** Linux, Git, GitHub, VS Code
 
 ## Projects
-- E2EE Chat Protocol
-- Orderbook
-- RAG Chatbot
-- DSA
+- **[Orderbook](https://github.com/Shubhammehta2008/orderbook):** High-performance matching engine and limit order book implementation in C++.
+- **[DSA](https://github.com/Shubhammehta2008/DSA):** Data Structures & Algorithms implementations and problem solutions in C++.
+- **[RAG Chatbot](https://github.com/Shubhammehta2008/rag-chatbot-from-scratch):** Retrieval-Augmented Generation chatbot built from scratch.
+- **[Mini AI Agent](https://github.com/Shubhammehta2008/mini-ai-agent):** Autonomous AI agent implementation.
 
 ## Connect
-- [GitHub](https://github.com/Shubhammehta2008)
+- **GitHub:** [Shubhammehta2008](https://github.com/Shubhammehta2008)
