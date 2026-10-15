@@ -14,4 +14,4 @@
 
 ## Connect
 - **GitHub:** [Shubhammehta2008](https://github.com/Shubhammehta2008)
--<img src="https://komarev.com/ghpvc/?username=Shubhammehta2008" style="display: none;" alt="" />
+
