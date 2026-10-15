@@ -3,9 +3,9 @@
 ### CSE (Cybersecurity) Student | Systems, C++, AI & Network Security Enthusiast
 
 ## Tech Stack
-- **Languages:** C++, Python,Go, JavaScript,SQL,Kali Linux
+- **Languages:** C++, Python,Go, JavaScript,SQL,Linux,TypeScript
 - **Core:** Data Structures & Algorithms, Systems Programming, Network Security, Socket Programming, Cryptography,AI
-- **Tools:** Linux, Git, GitHub, VS Code
+- **Tools:** Linux, Git, GitHub, VS Code ,Kali Linux
 
 ## Projects
 - **[Orderbook](https://github.com/Shubhammehta2008/orderbook):** High-performance matching engine and limit order book implementation in C++.
