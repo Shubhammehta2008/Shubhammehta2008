@@ -3,7 +3,7 @@
 ### CSE (Cybersecurity) Student | Systems, C++, AI & Network Security Enthusiast
 
 ## Tech Stack
-- **Languages:** C++, Python,Go, JavaScript
+- **Languages:** C++, Python,Go, JavaScript,SQL,Kali Linux
 - **Core:** Data Structures & Algorithms, Systems Programming, Network Security, Socket Programming, Cryptography,AI
 - **Tools:** Linux, Git, GitHub, VS Code
 
